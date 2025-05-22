@@ -166,6 +166,10 @@ span{
     width: 200px;
     text-align: center;
 }
+.profile-btn-2 a{
+    text-decoration: none;
+    color: black;
+}
 
 .profile-btn-2 button{
     all: unset;
