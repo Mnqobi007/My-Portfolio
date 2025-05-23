@@ -181,3 +181,32 @@ span{
     width: 200px;
     text-align: center;
 }
+
+.about-img{
+    border-radius: 30px;
+}
+
+.mt-10{
+    margin-top: 15rem;
+}
+.outline{
+    border-radius: 30px;
+    border: 1px solid black;
+}
+
+.outline-git{
+    border: 1px solid orangered;
+    border-radius: 30px;
+}
+.outline-github{
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.outline-vscode{
+    border: 1px solid skyblue;
+    border-radius: 30px;
+}
+.outline-bootstrap{
+    border: 1px solid purple;
+    border-radius: 30px;
+}
